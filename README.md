@@ -2,9 +2,9 @@
 
 <br/>
 
-<img src="https://people.ee.ethz.ch/~ihnatova/demo_microisp/MicroISP_teaser.jpg"/>
+<img src="https://aiff22.github.io/demo_microisp/MicroISP_teaser.jpg"/>
 
-#### 1. Overview [[Paper]](https://arxiv.org/pdf/2211.06770) [[Project Webpage]](http://people.ee.ethz.ch/~ihnatova/microisp.html)
+#### 1. Overview [[Paper]](https://arxiv.org/pdf/2211.06770) [[Project Webpage]](http://aiff22.github.io/microisp.html)
 
 This repository provides the implementation of the RAW-to-RGB mapping approach and MicroISP CNN presented in [this paper](https://arxiv.org/pdf/2211.06770). The model is trained to convert **RAW Bayer data** obtained directly from mobile camera sensor into photos captured with a professional medium format 102MP [Fujifilm GFX100](https://www.dpreview.com/reviews/fujifilm-gfx-100-review) camera, thus replacing the entire hand-crafted ISP camera pipeline. The provided pre-trained MicroISP model can be used to generate full-resolution **32MP photos** from RAW (DNG) image files captured using the Sony Exmor IMX586 camera sensor directly on mobile devices.
 
@@ -22,7 +22,7 @@ This repository provides the implementation of the RAW-to-RGB mapping approach a
 
 <br/>
 
-<img src="https://people.ee.ethz.ch/~ihnatova/demo_microisp/microisp_architecture.png" alt="drawing" width="1000"/>
+<img src="https://aiff22.github.io/demo_microisp/microisp_architecture.png" alt="drawing" width="1000"/>
 
 <br/>
 
